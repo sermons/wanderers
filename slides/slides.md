@@ -49,15 +49,31 @@
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
 ## The Wanderers [(Ez36)](# "ref")
 1. **Home** [(v24-25)](# "ref")
-1. My **God** [(v26-28)](# "ref")
-1. **Rescue** [(v29-30)](# "ref")
-1. **Shame** [(v31-32)](# "ref")
+1. **Heart** [(v26-30)](# "ref")
+1. **Humility** [(v31-32)](# "ref")
+
+>>>
++ all **actions** / promises God does
+  + not **we** fixing selves
++ change of **heart**: humble before Him
++ change of **values**: priorities, what is important
++ change of **actions** / speech, over time
++ change of **habits**
 
 ---
 I will ... **gather** you from all the countries <br>
 and bring you into your **own land**.
 
 [Ezekiel 36:24 (ESV)](# "ref")
+
+>>>
++ **scattered**, unstable, homeless
+  + from **own** pride (harlot, ch16)
+  + or lack of good **shepherds** (ch34)
++ God **sees** and **seeks** lost sheep
++ we **belong** to Him
+  + He is not **foreign**
+  + brings us back **home**
 
 ---
 I will sprinkle **clean water** on you, <br>
@@ -66,12 +82,52 @@ and from all your **idols** I will cleanse you.
 
 [Ezekiel 36:25 (ESV)](# "ref")
 
----
-<!-- .slide: data-background="white" -->
-# Q1
+>>>
++ remove that which **causes** us to sin
++ remove the **chains** of shame / guilt
 
 ---
-# outline 2
+And when I passed by you <br>
+and saw you **wallowing** in your blood,
+
+I said to you in your blood, ‘**Live!**’<br>
+I said to you in your blood, ‘Live!’
+
+[Ezekiel 16:6 (ESV)](# "ref")
+
+>>>
++ when we were **helpless**
+
+---
+For while we were still **helpless**, <br>
+at the right time Christ **died** for the **ungodly**.
+
+[8](# "ref")
+But God **demonstrates** His own love toward us,<br>
+in that while we were **yet sinners**, <br>
+Christ **died** for us.
+
+[Romans 5:6,8 (NASB)](# "ref")
+
+>>>
++ the power to change was already **achieved** for us by Christ
++ not that we **clean** ourselves up first
++ but Christ's death **sanctifies** us
+
+---
+<!-- .slide: data-background="white" -->
+# Do I **believe** I can ever be **clean**?
+
+>>>
++ past **mistakes**, poor choices, hurts
++ done by **me** or by others **to** me
+
+---
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+## The Wanderers [(Ez36)](# "ref")
+1. Home [(v24-25)](# "ref")
+1. **Heart** [(v26-30)](# "ref")
+1. Humility [(v31-32)](# "ref")
 
 ---
 And I will give you a **new heart**, <br>
@@ -82,6 +138,16 @@ from your flesh <br>
 and give you a heart of **flesh**.
 
 [Ezekiel 36:26 (ESV)](# "ref")
+
+>>>
++ not (my life) + (Christ)
+  + entirely **new** heart
++ **stone**: afraid of getting **hurt**
++ our **Creator** is strong enough to rescue
+  + our **Saviour** loves us more than any other
++ &rArr; **flesh**: come **alive**
++ **strength** to change our habits:
+  + secret **superpower**:
 
 ---
 And I will put my **Spirit** within you, <br>
@@ -94,28 +160,43 @@ and I will be **your God**.
 
 [Ezekiel 36:27,28 (ESV)](# "ref")
 
+>>>
++ **Holy Spirit** is the spirit of Christ
+  + **Immanuel**: God with us
++ **walk**: daily habits, regular routine
+  + **obey**: heart of **humility**
++ **relationship**: my people, my God
+
+---
+I will also have **compassion** <br>
+on her who had **not** obtained compassion,
+
+And I will say to those who were **not My people**, <br>
+‘You are **My people**!’
+
+And they will say, ‘You are **my God**!’
+
+[Hosea 2:23 (NASB)](# "ref")
+
+>>>
++ Lo-Ruhamah, Lo-Ammi
+
 ---
 <!-- .slide: data-background="white" -->
-# Q2
+# Am I one of the **people** of God?
+
+>>>
++ new **identity** as people of God
+  + relationship: **my** God
++ heart of **flesh**
+  + do I **want** this new life?
 
 ---
-# outline 3
-
----
-And I will **deliver** you <br>
-from all your uncleannesses.
-
-And I will summon the **grain** <br>
-and make it abundant and lay no famine upon you.
-
-[Ezekiel 36:29 (ESV)](# "ref")
-
----
-<!-- .slide: data-background="white" -->
-# Q3
-
----
-# outline 4
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+## The Wanderers [(Ez36)](# "ref")
+1. Home [(v24-25)](# "ref")
+1. Heart [(v26-30)](# "ref")
+1. **Humility** [(v31-32)](# "ref")
 
 ---
 Then you will **remember** your evil ways, <br>
@@ -138,7 +219,7 @@ O house of Israel!
 
 ---
 <!-- .slide: data-background="white" -->
-# Q4
+# Q3
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
