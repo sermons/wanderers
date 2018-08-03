@@ -60,10 +60,12 @@
 + change of **habits**
 
 ---
+<!-- .slide: <%= bg("unsplash-c8ET5XvBwnU-flock.jpg") %> -->
 I will ... **gather** you from all the countries <br>
 and bring you into your **own land**.
 
 [Ezekiel 36:24 (ESV)](# "ref")
+[Highclere Castle, UK](https://unsplash.com/photos/c8ET5XvBwnU "caption")
 
 >>>
 + **scattered**, unstable, homeless
@@ -75,17 +77,20 @@ and bring you into your **own land**.
   + brings us back **home**
 
 ---
+<!-- .slide: <%= bg("unsplash-w8g2vws1VBQ-stream_water_trickle.jpg") %> -->
 I will sprinkle **clean water** on you, <br>
 and you shall be clean from all your **uncleannesses**, <br>
 and from all your **idols** I will cleanse you.
 
 [Ezekiel 36:25 (ESV)](# "ref")
+[Litchfield Park, Australia. Andy Fitzsimon](https://unsplash.com/photos/w8g2vws1VBQ "caption")
 
 >>>
 + remove that which **causes** us to sin
 + remove the **chains** of shame / guilt
 
 ---
+<!-- .slide: <%= bg("unsplash-8CwoHpZe3qE-hands.jpg") %> -->
 And when I passed by you <br>
 and saw you **wallowing** in your blood,
 
@@ -93,6 +98,7 @@ I said to you in your blood, ‘**Live!**’<br>
 I said to you in your blood, ‘Live!’
 
 [Ezekiel 16:6 (ESV)](# "ref")
+[Geetanjal Khanna](https://unsplash.com/photos/8CwoHpZe3qE "caption")
 
 >>>
 + when we were **helpless**
