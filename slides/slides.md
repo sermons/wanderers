@@ -154,18 +154,44 @@ And I will put my **Spirit** within you, <br>
 and cause you to **walk** in my statutes <br>
 and be careful to **obey** my rules.
 
-[28](# "ref")
-... and you shall be **my people**, <br>
-and I will be **your God**.
-
-[Ezekiel 36:27,28 (ESV)](# "ref")
+[Ezekiel 36:27 (ESV)](# "ref")
 
 >>>
 + **Holy Spirit** is the spirit of Christ
   + **Immanuel**: God with us
 + **walk**: daily habits, regular routine
   + **obey**: heart of **humility**
+
+---
+If the **Spirit** of him who <br>
+**raised** Jesus from the dead **dwells** in you,
+
+he who **raised** Christ Jesus from the dead <br>
+will also give **life** to your mortal **bodies** <br>
+through his **Spirit** who dwells in you.
+
+[Romans 8:11 (ESV)](# "ref")
+
+>>>
++ **body**: of sin, selfish, lustful
++ but **redeemed** by Spirit
+  + not just far off in **heaven**
+  + even right **now**
++ Spirit **empowers** us to walk in righteousness
++ Is the Spirit **strong** enough?
+  + He **raised** Jesus from dead!
++ not only new **life**,
+  + also new **identity**:
+
+---
+and you shall be **my people**, <br>
+and I will be **your God**.
+
+[Ezekiel 36:28 (ESV)](# "ref")
+
+>>>
 + **relationship**: my people, my God
++ **identity**: people of God
 
 ---
 I will also have **compassion** <br>
@@ -186,6 +212,7 @@ And they will say, ‘You are **my God**!’
 # Am I one of the **people** of God?
 
 >>>
++ TODO: focus on change of heart, spirit
 + new **identity** as people of God
   + relationship: **my** God
 + heart of **flesh**
