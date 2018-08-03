@@ -102,8 +102,9 @@ For while we were still **helpless**, <br>
 at the right time Christ **died** for the **ungodly**.
 
 [8](# "ref")
-But God **demonstrates** His own love toward us,<br>
-in that while we were **yet sinners**, <br>
+But God **demonstrates** <br>
+His own love toward us, in that <br>
+while we were **yet sinners**, <br>
 Christ **died** for us.
 
 [Romans 5:6,8 (NASB)](# "ref")
@@ -242,6 +243,14 @@ Be **ashamed** and **confounded** for your ways, <br>
 O house of Israel!
 
 [Ezekiel 36:32 (ESV)](# "ref")
+
+---
+For **godly grief** produces a **repentance** <br>
+that leads to salvation without **regret**, 
+
+whereas **worldly** grief produces **death**
+
+[2 Corinthians 7:10](# "ref")
 
 ---
 <!-- .slide: data-background="white" -->
