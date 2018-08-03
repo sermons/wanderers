@@ -54,15 +54,15 @@
 1. **Shame** [(v31-32)](# "ref")
 
 ---
-I will ... gather you from all the countries <br>
-and bring you into your own land.
+I will ... **gather** you from all the countries <br>
+and bring you into your **own land**.
 
 [Ezekiel 36:24 (ESV)](# "ref")
 
 ---
-I will sprinkle clean water on you, <br>
-and you shall be clean from all your uncleannesses, <br>
-and from all your idols I will cleanse you.
+I will sprinkle **clean water** on you, <br>
+and you shall be clean from all your **uncleannesses**, <br>
+and from all your **idols** I will cleanse you.
 
 [Ezekiel 36:25 (ESV)](# "ref")
 
@@ -74,23 +74,23 @@ and from all your idols I will cleanse you.
 # outline 2
 
 ---
-And I will give you a new heart, <br>
-and a new spirit I will put within you.
+And I will give you a **new heart**, <br>
+and a **new spirit** I will put within you.
 
-And I will remove the heart of stone <br>
+And I will remove the heart of **stone** <br>
 from your flesh <br>
-and give you a heart of flesh.
+and give you a heart of **flesh**.
 
 [Ezekiel 36:26 (ESV)](# "ref")
 
 ---
-And I will put my Spirit within you, <br>
-and cause you to walk in my statutes <br>
-and be careful to obey my rules.
+And I will put my **Spirit** within you, <br>
+and cause you to **walk** in my statutes <br>
+and be careful to **obey** my rules.
 
 [28](# "ref")
-... and you shall be my people, <br>
-and I will be your God.
+... and you shall be **my people**, <br>
+and I will be **your God**.
 
 [Ezekiel 36:27,28 (ESV)](# "ref")
 
@@ -102,10 +102,10 @@ and I will be your God.
 # outline 3
 
 ---
-And I will deliver you <br>
+And I will **deliver** you <br>
 from all your uncleannesses.
 
-And I will summon the grain <br>
+And I will summon the **grain** <br>
 and make it abundant and lay no famine upon you.
 
 [Ezekiel 36:29 (ESV)](# "ref")
@@ -118,20 +118,20 @@ and make it abundant and lay no famine upon you.
 # outline 4
 
 ---
-Then you will remember your evil ways, <br>
-and your deeds that were not good,
+Then you will **remember** your evil ways, <br>
+and your **deeds** that were not good,
 
-and you will loathe yourselves <br>
+and you will **loathe** yourselves <br>
 for your iniquities and your abominations.
 
 [Ezekiel 36:31 (ESV)](# "ref")
 
 ---
-It is not for your sake that I will act, <br>
+It is not for **your sake** that I will act, <br>
 declares the Lord God; <br>
 let that be known to you.
 
-Be ashamed and confounded for your ways, <br>
+Be **ashamed** and **confounded** for your ways, <br>
 O house of Israel!
 
 [Ezekiel 36:32 (ESV)](# "ref")
