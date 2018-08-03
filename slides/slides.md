@@ -246,6 +246,14 @@ O house of Israel!
 [Ezekiel 36:32 (ESV)](# "ref")
 
 ---
+For **godly grief** produces a **repentance** <br>
+that leads to salvation without **regret**, 
+
+whereas **worldly** grief produces **death**
+
+[2 Corinthians 7:10](# "ref")
+
+---
 <!-- .slide: data-background="white" -->
 # Q3
 
