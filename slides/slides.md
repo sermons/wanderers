@@ -104,6 +104,7 @@ I said to you in your blood, ‘Live!’
 + when we were **helpless**
 
 ---
+<!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
 For while we were still **helpless**, <br>
 at the right time Christ **died** for the **ungodly**.
 
@@ -114,6 +115,7 @@ while we were **yet sinners**, <br>
 Christ **died** for us.
 
 [Romans 5:6,8 (NASB)](# "ref")
+[Aaron Burden](https://unsplash.com/photos/09AhDCedXF8 "caption")
 
 >>>
 + the power to change was already **achieved** for us by Christ
@@ -136,6 +138,7 @@ Christ **died** for us.
 1. Humility [(v31-32)](# "ref")
 
 ---
+<!-- .slide: <%= bg("unsplash-2PODhmrvLik-heart_sunset.jpg") %> -->
 And I will give you a **new heart**, <br>
 and a **new spirit** I will put within you.
 
@@ -144,6 +147,7 @@ from your flesh <br>
 and give you a heart of **flesh**.
 
 [Ezekiel 36:26 (ESV)](# "ref")
+[Mayur Gala](https://unsplash.com/photos/2PODhmrvLik "caption")
 
 >>>
 + not (my life) + (Christ)
@@ -156,11 +160,13 @@ and give you a heart of **flesh**.
   + secret **superpower**:
 
 ---
+<!-- .slide: <%= bg("unsplash-NaWKMlp3tVs-bible.jpg") %> -->
 And I will put my **Spirit** within you, <br>
 and cause you to **walk** in my statutes <br>
 and be careful to **obey** my rules.
 
 [Ezekiel 36:27 (ESV)](# "ref")
+[Orange County, US. Samantha Sophia](https://unsplash.com/photos/NaWKMlp3tVs "caption")
 
 >>>
 + **Holy Spirit** is the spirit of Christ
@@ -169,6 +175,7 @@ and be careful to **obey** my rules.
   + **obey**: heart of **humility**
 
 ---
+<!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> -->
 If the **Spirit** of him who <br>
 **raised** Jesus from the dead **dwells** in you,
 
@@ -177,6 +184,7 @@ will also give **life** to your mortal **bodies** <br>
 through his **Spirit** who dwells in you.
 
 [Romans 8:11 (ESV)](# "ref")
+[Iceland. Davide Cantelli](https://unsplash.com/photos/H3giJcTw__w "caption")
 
 >>>
 + **body**: of sin, selfish, lustful
@@ -190,16 +198,19 @@ through his **Spirit** who dwells in you.
   + also new **identity**:
 
 ---
+<!-- .slide: <%= bg("unsplash-ywtbSuCSjhM-sunbeam-valley.jpg") %> -->
 and you shall be **my people**, <br>
 and I will be **your God**.
 
 [Ezekiel 36:28 (ESV)](# "ref")
+[Ales Krivec](https://unsplash.com/photos/ywtbSuCSjhM "caption")
 
 >>>
 + **relationship**: my people, my God
 + **identity**: people of God
 
 ---
+<!-- .slide: <%= bg("unsplash-6liebVeAfrY-worship.jpg") %> -->
 I will also have **compassion** <br>
 on her who had **not** obtained compassion,
 
@@ -209,6 +220,7 @@ And I will say to those who were **not My people**, <br>
 And they will say, ‘You are **my God**!’
 
 [Hosea 2:23 (NASB)](# "ref")
+[Los Angeles. Edwin Andrade](https://unsplash.com/photos/6liebVeAfrY "caption")
 
 >>>
 + Lo-Ruhamah, Lo-Ammi
@@ -232,15 +244,18 @@ And they will say, ‘You are **my God**!’
 1. **Humility** [(v31-32)](# "ref")
 
 ---
+<!-- .slide: <%= bg("unsplash-oXo6IvDnkqc-dirty_hands.jpg") %> -->
 Then you will **remember** your evil ways, <br>
 and your **deeds** that were not good,
 
 and you will **loathe** yourselves <br>
 for your iniquities and your abominations.
 
-[Ezekiel 36:31 (ESV)](# "ref")
+[Ezekiel 36:31 (ESV) (p.1/2)](# "ref")
+[Ian Espinosa](https://unsplash.com/photos/oXo6IvDnkqc "caption")
 
 ---
+<!-- .slide: <%= bg("unsplash-oXo6IvDnkqc-dirty_hands.jpg") %> -->
 It is not for **your sake** that I will act, <br>
 declares the Lord God; <br>
 let that be known to you.
@@ -248,15 +263,17 @@ let that be known to you.
 Be **ashamed** and **confounded** for your ways, <br>
 O house of Israel!
 
-[Ezekiel 36:32 (ESV)](# "ref")
+[Ezekiel 36:32 (ESV) (p.2/2)](# "ref")
 
 ---
+<!-- .slide: <%= bg("unsplash-bEbqpPeHEM4-kneel_beach.jpg") %> -->
 For **godly grief** produces a **repentance** <br>
 that leads to salvation without **regret**,
 
 whereas **worldly** grief produces **death**
 
 [2 Corinthians 7:10](# "ref")
+[Ben White](https://unsplash.com/photos/bEbqpPeHEM4 "caption")
 
 ---
 <!-- .slide: data-background="white" -->
