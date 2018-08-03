@@ -1,13 +1,9 @@
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-Zldz46wahbE-back_mirror.jpg") %> id="title" -->
 # The Wanderers
 ## Ezekiel 36:22-32 (3/5)
+[San Diego, US. Tyler Mullins](https://unsplash.com/photos/Zldz46wahbE "caption")
 
 >>>
-+ not for your sake
-+ 24-25: bring home, cleanse
-+ 26-28: my God / my people
-+ 29-30: save from consequences
-+ 31-32: ashamed (16:60-63 bc forgiven)
 
 ---
 <!-- .slide: data-background="white" -->
@@ -23,6 +19,7 @@
 + only **God** can do that:
 
 ---
+<!-- .slide: <%= bg("unsplash-sp-p7uuT0tw-dark_forest.jpg") %> id="series" -->
 
 | 1. What must I change? | <small>[ch16:](# "ref") *Princess* [(identity)](# "ref")</small> |
 | --- | --- |
@@ -30,6 +27,8 @@
 | 3. **How do I change?** | <small>[ch36:](# "ref") *Wanderers* [(God's work)](# "ref")</small> |
 | 4. Am I beyond hope? | <small>[ch37:](# "ref") *Dry Bones* [(new life)](# "ref")</small> |
 | 5. If others won't change? | <small>[ch33:](# "ref") *Watchman* [(missions)](# "ref")</small> |
+
+[Bad Pyrmont, Germany.  Sebastian Unrau](https://unsplash.com/photos/sp-p7uuT0tw "caption")
 
 >>>
 + (1) know **self**:
@@ -46,7 +45,7 @@
 + (3) **process** of change
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
+<!-- .slide: <%= bg("unsplash-Zldz46wahbE-back_mirror.jpg") %> id="outline" class="outline" -->
 ## The Wanderers [(Ez36)](# "ref")
 1. **Home** [(v24-25)](# "ref")
 1. **Heart** [(v26-30)](# "ref")
@@ -123,7 +122,7 @@ Christ **died** for us.
 + done by **me** or by others **to** me
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-Zldz46wahbE-back_mirror.jpg") %> class="outline" -->
 ## The Wanderers [(Ez36)](# "ref")
 1. Home [(v24-25)](# "ref")
 1. **Heart** [(v26-30)](# "ref")
@@ -219,7 +218,7 @@ And they will say, ‘You are **my God**!’
   + do I **want** this new life?
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-Zldz46wahbE-back_mirror.jpg") %> class="outline" -->
 ## The Wanderers [(Ez36)](# "ref")
 1. Home [(v24-25)](# "ref")
 1. Heart [(v26-30)](# "ref")
@@ -249,5 +248,5 @@ O house of Israel!
 # Q3
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
+<!-- .slide: <%= bg("unsplash-Zldz46wahbE-back_mirror.jpg") %> class="empty" -->
 
