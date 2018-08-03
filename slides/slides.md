@@ -246,7 +246,7 @@ O house of Israel!
 
 ---
 For **godly grief** produces a **repentance** <br>
-that leads to salvation without **regret**, 
+that leads to salvation without **regret**,
 
 whereas **worldly** grief produces **death**
 
@@ -254,7 +254,7 @@ whereas **worldly** grief produces **death**
 
 ---
 <!-- .slide: data-background="white" -->
-# Q3
+# How do I **react** when I'm proven **wrong**?
 
 ---
 <!-- .slide: <%= bg("unsplash-Zldz46wahbE-back_mirror.jpg") %> class="empty" -->
