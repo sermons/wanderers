@@ -103,40 +103,26 @@ and from all your **idols** I will cleanse you.
 + if these are **not** subordinate to God
   + they become **idols** to us
 + God can **cleanse** us from idolatry
-  + but we must **yield** control
-
----
-<!-- .slide: <%= bg("unsplash-8CwoHpZe3qE-hands.jpg") %> -->
-And when I passed by you <br>
-and saw you **wallowing** in your blood,
-
-I said to you in your blood, ‘**Live!**’<br>
-I said to you in your blood, ‘Live!’
-
-[Ezekiel 16:6 (ESV)](# "ref")
-[Geetanjal Khanna](https://unsplash.com/photos/8CwoHpZe3qE "caption")
-
->>>
-+ when we were **helpless**
+  + like **orphan** kicking in blood
++ but we must **yield** control
 
 ---
 <!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn_cross.jpg") %> -->
-For while we were still **helpless**, <br>
-at the right time Christ **died** for the **ungodly**.
+If we say we have **no sin**, we **deceive** ourselves, <br>
+and the **truth** is not in us. 
 
-[8](# "ref")
-But God **demonstrates** <br>
-His own love toward us, in that <br>
-while we were **yet sinners**, <br>
-Christ **died** for us.
+[9](# "ref") 
+If we **confess** our sins, <br>
+he is **faithful** and just 
 
-[Romans 5:6,8 (NASB)](# "ref")
+to **forgive** us our sins <br>
+and to **cleanse** us from all unrighteousness
+
+[1 John 1:8-9 (ESV)](# "ref")
 [Plattenkogel, Austria. Lukas Budimaier](https://unsplash.com/photos/6cY-FvMlmkQ "caption")
 
 >>>
-+ the power to change was already **achieved** for us by Christ
-+ not that we **clean** ourselves up first
-+ but Christ's death **sanctifies** us
+
 
 ---
 <!-- .slide: data-background="white" -->
