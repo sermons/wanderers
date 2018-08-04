@@ -364,6 +364,14 @@ whereas **worldly** grief produces **death**
   + but has **heard** of their repentance
   + other **cities** seen the change
 + **good grief** leads us to repentance
++ e.g., how often have we **dads** apologised?
++ e.g. reunion trip to **zoo**
+  + all **tired**, last to leave
+  + **dad** blows up
+  + later in car, **apologies**:
+  + "it's ok", "no, it's **not**"
++ grief &rArr; **change**
+  + empowered by **Spirit**
 
 ---
 <!-- .slide: data-background="white" -->
