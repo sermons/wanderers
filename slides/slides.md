@@ -310,11 +310,20 @@ and your **deeds** that were not good,
 and you will **loathe** yourselves <br>
 for your iniquities and your abominations.
 
-[Ezekiel 36:31 (ESV) (p.1/2)](# "ref")
+[Ezekiel 36:31 (ESV)](# "ref")
 [Ian Espinosa](https://unsplash.com/photos/oXo6IvDnkqc "caption")
 
+>>>
++ secret to true **humility**:
+  + good **memory**!
++ remember unwanted **baby** kicking in blood
++ remember **pride** in own beauty / blessings
++ remember being selfish **shepherd**
+  + or arrogant **sheep**
++ God saves us **not** bc we're **deserving**:
+
 ---
-<!-- .slide: <%= bg("unsplash-oXo6IvDnkqc-dirty_hands.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> -->
 It is not for **your sake** that I will act, <br>
 declares the Lord God; <br>
 let that be known to you.
@@ -322,7 +331,16 @@ let that be known to you.
 Be **ashamed** and **confounded** for your ways, <br>
 O house of Israel!
 
-[Ezekiel 36:32 (ESV) (p.2/2)](# "ref")
+[Ezekiel 36:32 (ESV)](# "ref")
+[Thailand.  Dominik QN](https://unsplash.com/photos/9gGQvhC4PEY "caption")
+
+>>>
++ why? so we will **know** that 
+  + He is the **LORD** our God
++ **remembering** this keeps us
+  + in right **rltn** w/God
+  + **humble** + reliant on His grace
+  + **walking** in step w/Spirit
 
 ---
 <!-- .slide: <%= bg("unsplash-bEbqpPeHEM4-kneel_beach.jpg") %> -->
@@ -334,9 +352,34 @@ whereas **worldly** grief produces **death**
 [2 Corinthians 7:10](# "ref")
 [Ben White](https://unsplash.com/photos/bEbqpPeHEM4 "caption")
 
+>>>
++ 1Cor pretty **harsh**: church messed up
+  + **factions** / personality cult
+  + how exercise **gifts**
+  + **sexual** immorality
+  + even holy **communion** wrong
++ church **grieved**: not always smiley happy
+  + led to **repentance**
++ by 2Cor, tho Paul hasn't seen in **person**
+  + but has **heard** of their repentance
+  + other **cities** seen the change
++ **good grief** leads us to repentance
+
 ---
 <!-- .slide: data-background="white" -->
 # How do I **react** when I'm proven **wrong**?
+
+>>>
++ **downplay** the wrong: no big deal
++ **counterattack**: you're no better
+  + impute **ill intent**: fine, happy now?
++ **withdraw** in fear: never try again
+  + wallow **self-pity**: can't do right
++ &rArr; godly grief &rArr; **repentance**
+  + change **direction**
+  + **empowered** by Spirit indwelling
+  + one **step** at a time: keep in step
++ that's how we get **lasting** change! 
 
 ---
 <!-- .slide: <%= bg("unsplash-Zldz46wahbE-back_mirror.jpg") %> class="empty" -->
