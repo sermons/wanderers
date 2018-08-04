@@ -50,8 +50,8 @@
 ---
 <!-- .slide: <%= bg("unsplash-Zldz46wahbE-back_mirror.jpg") %> id="outline" class="outline" -->
 ## The Wanderers [(Ez36)](# "ref")
-1. **Home** [(v24-25)](# "ref")
-1. **Heart** [(v26-30)](# "ref")
+1. **Healing** [(v24-25)](# "ref")
+1. **Heart** and **Home** [(v26-30)](# "ref")
 1. **Humility** [(v31-32)](# "ref")
 
 >>>
@@ -154,8 +154,8 @@ and to **cleanse** us from all unrighteousness
 ---
 <!-- .slide: <%= bg("unsplash-Zldz46wahbE-back_mirror.jpg") %> class="outline" -->
 ## The Wanderers [(Ez36)](# "ref")
-1. Home [(v24-25)](# "ref")
-1. **Heart** [(v26-30)](# "ref")
+1. Healing [(v24-25)](# "ref")
+1. **Heart and Home** [(v26-30)](# "ref")
 1. Humility [(v31-32)](# "ref")
 
 ---
@@ -194,6 +194,38 @@ and be careful to **obey** my rules.
   + **Immanuel**: God with us
 + **walk**: daily habits, regular routine
   + **obey**: heart of **humility**
++ but not just **one-time** transformation:
+  + daily **walk** in step w/Spirit:
+
+---
+But I say, **walk** by the Spirit, and you will <br>
+not gratify the desires of the **flesh**. 
+
+[17](# "ref")
+For the desires of the **flesh** <br>
+are against the **Spirit**, <br>
+and the desires of the Spirit <br>
+are **against** the flesh, 
+
+for these are **opposed** to each other, <br>
+to keep you from **doing** <br>
+the things you **want** to do. 
+
+[Galatians 5:16-17 (ESV)](# "ref")
+
+>>>
++ **tension** / struggle:
+  + **want** to do good
+  + but **unable** to do so
++ not fully **free** til body of sin done
++ but daily keep **in step** w/Spirit
+  + "what do You want me to work on **today**?"
++ God not **high** in heaven
+  + but **alongside** to sustain
+  + **indwelling** to strengthen
++ but I'm so **tired** of trying to be good
+  + my bad **habits** are so ingrained
+  + is Spirit really **able** to change me? 
 
 ---
 <!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> -->
@@ -212,11 +244,11 @@ through his **Spirit** who dwells in you.
 + but **redeemed** by Spirit
   + not just far off in **heaven**
   + even right **now**
-+ Spirit **empowers** us to walk in righteousness
++ Spirit **empowers** us to walk in rightsns
 + Is the Spirit **strong** enough?
   + He **raised** Jesus from dead!
-+ not only new **life**,
-  + also new **identity**:
++ new **spirit** also invites us into
+  + new **home**:
 
 ---
 <!-- .slide: <%= bg("unsplash-ywtbSuCSjhM-sunbeam-valley.jpg") %> -->
@@ -227,8 +259,14 @@ and I will be **your God**.
 [Ales Krivec](https://unsplash.com/photos/ywtbSuCSjhM "caption")
 
 >>>
-+ **relationship**: my people, my God
 + **identity**: people of God
++ **relationship**: my people, my God
+  + not just **abstract** God
+    + what I **know** about
+  + but **my** God
+  + **teens**: parents' faith &rArr; own
++ from unwanted **orphans** 
+  + to **belonging** to God's family:
 
 ---
 <!-- .slide: <%= bg("unsplash-6liebVeAfrY-worship.jpg") %> -->
@@ -248,20 +286,20 @@ And they will say, ‘You are **my God**!’
 
 ---
 <!-- .slide: data-background="white" -->
-# Am I one of the **people** of God?
+# What does the **Holy Spirit** do in us?
 
 >>>
-+ TODO: focus on change of heart, spirit
-+ new **identity** as people of God
-  + relationship: **my** God
-+ heart of **flesh**
-  + do I **want** this new life?
++ **changes** heart of **stone** to **flesh**
++ **opposes** desires of flesh
++ **strengthens** us to obey God
++ **reminds** us of new **identity**
+  + as people of God
 
 ---
 <!-- .slide: <%= bg("unsplash-Zldz46wahbE-back_mirror.jpg") %> class="outline" -->
 ## The Wanderers [(Ez36)](# "ref")
-1. Home [(v24-25)](# "ref")
-1. Heart [(v26-30)](# "ref")
+1. Healing [(v24-25)](# "ref")
+1. Heart and Home [(v26-30)](# "ref")
 1. **Humility** [(v31-32)](# "ref")
 
 ---
