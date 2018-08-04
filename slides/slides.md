@@ -92,6 +92,14 @@ and from all your **idols** I will cleanse you.
 
 >>>
 + **idols**: what we put **above** God
++ e.g. family w/$$ **jade** idol
+  + when **unwilling** to destroy,
+    + **Satan** attacked
+  + not that **jade** is evil
+    + Satan saw **opportunity**
+  + **know** not pleasing to God
+    + unwilling to **yield**
++ what are **our** idols? 
 + edu / **career**: not for **recognition**
   + but to **serve** others
   + **subordinate** to God
@@ -102,9 +110,6 @@ and from all your **idols** I will cleanse you.
   + "God, how do I find a **mate**?"
 + if these are **not** subordinate to God
   + they become **idols** to us
-+ God can **cleanse** us from idolatry
-  + like **orphan** kicking in blood
-+ but we must **yield** control
 
 ---
 <!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn_cross.jpg") %> -->
@@ -122,15 +127,29 @@ and to **cleanse** us from all unrighteousness
 [Plattenkogel, Austria. Lukas Budimaier](https://unsplash.com/photos/6cY-FvMlmkQ "caption")
 
 >>>
-
++ **admit** these **jewels** from God
+  + have become **idols** to us
+  + **pride**: control own life
++ **yield** control to God
+  + edu / career **objective**
+  + desire to be **married**
+  + desire to have **children**
++ but if I **refuse** to admit sin
+  + cling to **pride**
+  + v8 **fooling** myself
+  + v10 make **God** out to be a **liar**
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I **believe** I can ever be **clean**?
+# Do I **want** God to remove my **idols**?
 
 >>>
-+ past **mistakes**, poor choices, hurts
-+ done by **me** or by others **to** me
++ worked **hard** for, sacrificed for
+  + believe they give us **value**
++ idol of **anger**: indignation of **victim**
+  + **familiar** response
+  + illusion of **control**
++ hard to **let go** of our sins! 
 
 ---
 <!-- .slide: <%= bg("unsplash-Zldz46wahbE-back_mirror.jpg") %> class="outline" -->
