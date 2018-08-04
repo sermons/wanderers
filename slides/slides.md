@@ -13,10 +13,13 @@
 
 >>>
 + want magic **5-steps** to a better you
-+ but we **don't** have power to change selves
-+ can change **behaviour**, even habits
-  + but lasting change starts from **heart**
-+ only **God** can do that:
+  + but **no** power to change self
++ lasting change starts from **heart**
+  + only **God** can do that
++ change of **heart**: humble before Him
++ change of **values**: priorities, what is important
++ change of **actions** / speech, over time
++ change of **habits**
 
 ---
 <!-- .slide: <%= bg("unsplash-sp-p7uuT0tw-dark_forest.jpg") %> id="series" -->
@@ -54,10 +57,12 @@
 >>>
 + all **actions** / promises God does
   + not **we** fixing selves
-+ change of **heart**: humble before Him
-+ change of **values**: priorities, what is important
-+ change of **actions** / speech, over time
-+ change of **habits**
++ bring us **home**
+  + cleanse / **free** us from old life
++ **Spirit** gives **strength** to change
++ good **memory** the key to **humility**
+  + remember our **sins**
+  + how much God has **forgiven**
 
 ---
 <!-- .slide: <%= bg("unsplash-c8ET5XvBwnU-flock.jpg") %> -->
@@ -68,13 +73,13 @@ and bring you into your **own land**.
 [Highclere Castle, UK](https://unsplash.com/photos/c8ET5XvBwnU "caption")
 
 >>>
++ Israel in **exile**
+  + Canaan **promised** land
 + **scattered**, unstable, homeless
   + from **own** pride (harlot, ch16)
   + or lack of good **shepherds** (ch34)
 + God **sees** and **seeks** lost sheep
-+ we **belong** to Him
-  + He is not **foreign**
-  + brings us back **home**
++ establishes a **home** for homeless
 
 ---
 <!-- .slide: <%= bg("unsplash-w8g2vws1VBQ-stream_water_trickle.jpg") %> -->
@@ -86,8 +91,19 @@ and from all your **idols** I will cleanse you.
 [Litchfield Park, Australia. Andy Fitzsimon](https://unsplash.com/photos/w8g2vws1VBQ "caption")
 
 >>>
-+ remove that which **causes** us to sin
-+ remove the **chains** of shame / guilt
++ **idols**: what we put **above** God
++ edu / **career**: not for **recognition**
+  + but to **serve** others
+  + **subordinate** to God
++ rltnshp / **family**: not for our **comfort**
+  + but to **love** others
+  + as **Christ** loves us
+  + "God, how should I **parent**?"
+  + "God, how do I find a **mate**?"
++ if these are **not** subordinate to God
+  + they become **idols** to us
++ God can **cleanse** us from idolatry
+  + but we must **yield** control
 
 ---
 <!-- .slide: <%= bg("unsplash-8CwoHpZe3qE-hands.jpg") %> -->
