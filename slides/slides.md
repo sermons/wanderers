@@ -104,7 +104,7 @@ I said to you in your blood, ‘Live!’
 + when we were **helpless**
 
 ---
-<!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn_cross.jpg") %> -->
 For while we were still **helpless**, <br>
 at the right time Christ **died** for the **ungodly**.
 
@@ -115,7 +115,7 @@ while we were **yet sinners**, <br>
 Christ **died** for us.
 
 [Romans 5:6,8 (NASB)](# "ref")
-[Aaron Burden](https://unsplash.com/photos/09AhDCedXF8 "caption")
+[Plattenkogel, Austria. Lukas Budimaier](https://unsplash.com/photos/6cY-FvMlmkQ "caption")
 
 >>>
 + the power to change was already **achieved** for us by Christ
